@@ -17,9 +17,9 @@ class MainActivity : AppCompatActivity() {
         val pointA2: Button = findViewById(R.id.a2)
 
         /*Team B Buttons*/
-        val pointB5: Button = findViewById(R.id.a5)
-        val pointB3: Button = findViewById(R.id.a5)
-        val pointB2: Button = findViewById(R.id.a5)
+        val pointB5: Button = findViewById(R.id.b5)
+        val pointB3: Button = findViewById(R.id.b3)
+        val pointB2: Button = findViewById(R.id.b2)
 
         /*Team A Point*/
         val teamAScore : TextView = findViewById(R.id.aPoint)
@@ -56,6 +56,11 @@ class MainActivity : AppCompatActivity() {
 
         pointB2.setOnClickListener{
             teamBScore.text = addTwo(teamBScore.text.toString().toInt())
+        }
+
+        refreshButton.setOnClickListener {
+            teamAScore.text = 0.toString()
+            teamBScore.text = 0.toString()
         }
     }
 
