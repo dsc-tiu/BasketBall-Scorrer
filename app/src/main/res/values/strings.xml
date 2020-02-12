@@ -5,4 +5,5 @@
     <string name="point2">2 Point</string>
     <string name="noPoint">0</string>
     <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
 </resources>
