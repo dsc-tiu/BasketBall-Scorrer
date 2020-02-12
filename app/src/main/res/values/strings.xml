@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BasketBall</string>
+    <string name="app_name">Scorer</string>
     <string name="point5">5 Point</string>
     <string name="point3">3 Point</string>
     <string name="point2">2 Point</string>
