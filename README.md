@@ -1,26 +1,5 @@
 # BasketBall-Scorrer
 BasketBall scoring App 
 
-## Assignment: 
 
-1 column with 
-
-A Basket ball image
-
-1 button with text 5
-1 button with text 3
-1 button with text 2 
-
-Then a textview 
-
-If you press 5 textview will show 5 then if you press 3 textview will show the added number 8 that's way
-
-Similar column at beside also for Team B 
-
-
-
-It is actually a Basketball Scorer App
-
-Hope you will do it from your own. If any problem to understand feel free to ask. 
-
-**Use DataBinding
+<img src = "https://user-images.githubusercontent.com/30453784/74307535-a27b3d80-4d8b-11ea-86e7-b9e95061ec67.png" width = 250>
